@@ -52,7 +52,9 @@ const Navbar = () => {
           }}
         >
           <Box>
-            <img src="/CRYPTO MINERS.png" alt="" />
+            <Box sx={{
+              maxWidth: '250px'
+            }} component={'img'} src="/CRYPTO MINERS.png" alt="" />
           </Box>
           <Box
             sx={{
