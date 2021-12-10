@@ -100,7 +100,7 @@ const EarnMoney = () => {
                 <Box className="image-card">
                   <Fade bottom>
                     <CustomImage
-                      src="/157122 1.png"
+                      src="/1.png"
                       alt=""
                       className="CustomImage"
                     />
@@ -123,7 +123,7 @@ const EarnMoney = () => {
                 <Fade bottom>
                   <Box className="image-card">
                     <CustomImage
-                      src="/157122 1.png"
+                      src="/2.png"
                       alt=""
                       className="CustomImage"
                     />
