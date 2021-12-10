@@ -99,7 +99,7 @@ export default Faq;
 const data = [
     {
         title: "CryptoMiners NFT minting",
-        description: ` You can only mint your Miners exclusively on our website. We will share the exact date and time on Discord. So make sure to join us now by clicking here.`
+        description: `You can only mint your Miners exclusively on our website. We will share the exact date and time on Discord. So make sure to join us now by clicking here.`
     },
     {
         title: "What is CryptoMiners ?",
@@ -107,20 +107,20 @@ const data = [
             Welcome @everyone <br/>
             **The CRYPTO MINERS** is a collection of 4,444 unique Miners who unite together on the Ethereum Blockchain.
             ‍ <br/>
-            Entering The CRYPTO MINERS team means joining an ambitious group of entrepreneurs all aiming to live a
-            better life by learning and investing their time in precious  <br/>
+            Entering The CRYPTO MINERS team means joining an ambitious group of entrepreneurs all aiming to live a better life by learning and investing their time in precious assets.
+            <br/>
+            **Earn passive money while you sleep! 💸
+            **
+            <br/>
+            We are very proud to announce that we are the first NFT collection that will be **considered as an asset.**
+<br/>
+            You can expect to get up to **600$ in passive income **per month from owning one single CRYPTO MINER! Now imagine having 3 Miners and one of them is a rare one, generating up to 1200$ in revenue each month. **That’s a potential 2400$ per month **by investing 0,9 ETH, 4000$ at the time of writing.
 
-            **Earn passive money while you sleep! 💸 ** <br/>
-            We are very proud to announce that we are the first NFT collection that will be **considered as an asset.** <br/>
-
-            You can expect to get up to **600$ in passive income **per month from owning one single CRYPTO MINER! Now
-            imagine having 3 Miners and one of them is a rare one, generating up to 1200$ in revenue each month.
-            **That’s a potential 2400$ per month **by investing 0,9 ETH, 4000$ at the time of writing.
         </>
     },
     {
         title: "What is Metamask?",
-        description: ` Metamask is a crypto wallet that stores your Ethereum, which you need to purchase and mint a Champion.`
+        description: `Metamask is a crypto wallet that stores your Ethereum, which you need to purchase and mint a CryptoMiners.`
     },
     {
         title: "Where can I see my Champion?",
