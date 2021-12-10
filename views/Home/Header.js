@@ -252,7 +252,7 @@ const Header = () => {
               className="zoomContainer"
             >
               <Box className="image-card">
-                <img src="/Pngtree.png" alt="" className="CustomImage" />
+                <img src="/3.png" alt="" className="CustomImage" />
               </Box>
             </Box>
           </Grid>
