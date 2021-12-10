@@ -1,0 +1,31 @@
+{
+  "name": "crypto-miners",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.7.0",
+    "@emotion/styled": "^11.6.0",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.60",
+    "@mui/icons-material": "^5.2.1",
+    "@mui/lab": "^5.0.0-alpha.59",
+    "@mui/material": "^5.2.2",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-anchor-link-smooth-scroll": "^1.0.12",
+    "react-dom": "17.0.2",
+    "react-gtm-module": "^2.0.11",
+    "react-modern-drawer": "^0.1.1",
+    "react-responsive": "^9.0.0-beta.5",
+    "react-reveal": "^1.2.2"
+  },
+  "devDependencies": {
+    "eslint": "8.4.0",
+    "eslint-config-next": "12.0.7"
+  }
+}
