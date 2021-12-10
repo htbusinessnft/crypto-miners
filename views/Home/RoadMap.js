@@ -74,9 +74,8 @@ const RoadMap = () => {
                           color: "#FFF"
                         }}
                       >
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        In pulvinar lacus quis arcu blandit, at fermentum risus
-                        bibendum.
+                          COMMUNITY BUILDING <br/>
+                          We will spread the word about our ambitious project and organise multiple giveaways until the official public release date. Our aim here is to gather as many investors as possible and that each one of them understands our project and what we are aiming for. We are not just like any other NFT collection, we are building an asset that will endlessly produce passive income for all holders!
                       </Typography>
                     </Box>
                   </Fade>
@@ -99,10 +98,14 @@ const RoadMap = () => {
                       background: "#1C232D",
                       height: "64px",
                       width: "64px",
-                      padding: "11px 12px 18px"
+                      // padding: "11px 12px 18px",
+                        textAlign: 'center',
+                        display: 'flex',
+                        justifyContent: 'center',
+                        alignItems:'center' ,
                     }}
                   >
-                    Lorem ipsum
+                      PHASE 1
                   </TimelineDot>
                   <TimelineConnector
                     sx={{
@@ -132,9 +135,8 @@ const RoadMap = () => {
                           color: "#FFF"
                         }}
                       >
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        In pulvinar lacus quis arcu blandit, at fermentum risus
-                        bibendum.
+                          LAUNCH <br/>
+                          1000 Miners will be available to mint 24 hours before the public sale for the whitelisted members, each whitelisted member will have the option to mint 2 Miners, that means that there will be 3,333 Miners available to mint on the date of the public sale. Make sure you grab yourself one because our miners will become an asset generating you passive money each week.
                       </Typography>
                     </Box>
                   </Fade>
@@ -157,10 +159,13 @@ const RoadMap = () => {
                       background: "#1C232D",
                       height: "64px",
                       width: "64px",
-                      padding: "11px 12px 18px"
+                        textAlign: 'center',
+                        display: 'flex',
+                        justifyContent: 'center',
+                        alignItems:'center' ,
                     }}
                   >
-                    Lorem ipsum
+                      PHASE 2
                   </TimelineDot>
                   <TimelineConnector
                     sx={{
@@ -190,9 +195,9 @@ const RoadMap = () => {
                           color: "#FFF"
                         }}
                       >
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        In pulvinar lacus quis arcu blandit, at fermentum risus
-                        bibendum.
+                          MINING RIGS <br/>
+                          Buying a new warehouse in Iceland, and filling it with mining rigs, which will be YOUR mining rigs, earning you money while you sleep just by owning and holding a CRYPTOMINER.
+                          TO MAKE IT CLEAR: You can expect to get up to 600$ in passive income per month from owning one single CRYPTO MINER! Now imagine having 3 Miners and one of them is a rare one, generating up to 1200$ in revenue each month. That’s a potential 2400$ per month by investing 0,9 ETH, 4000$ at the time of writing.
                       </Typography>
                     </Box>
                   </Fade>
@@ -215,10 +220,14 @@ const RoadMap = () => {
                       background: "#1C232D",
                       height: "64px",
                       width: "64px",
-                      padding: "11px 12px 18px"
+                      // padding: "11px 12px 18px"
+                        display: 'flex',
+                        justifyContent: 'center',
+                        alignItems: 'center',
+                        textAlign: 'center',
                     }}
                   >
-                    Lorem ipsum
+                      PHASE 3
                   </TimelineDot>
                   <TimelineConnector
                     sx={{
@@ -248,9 +257,8 @@ const RoadMap = () => {
                           color: "#FFF"
                         }}
                       >
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        In pulvinar lacus quis arcu blandit, at fermentum risus
-                        bibendum.
+                          CHARITY <br/>
+                          Once all CRYPTOMINERS will have been minted we will be investing 150.000$ to fund the construction of schools in Asia and Africa. We are so grateful for having had access to education throughout our entire lives, it is what has brought us here today, and we think that more people should have access to proper education, that is why we decided to fund the construction of schools.
                       </Typography>
                     </Box>
                   </Fade>
@@ -273,10 +281,13 @@ const RoadMap = () => {
                       background: "#1C232D",
                       height: "64px",
                       width: "64px",
-                      padding: "11px 12px 18px"
+                        display: 'flex',
+                        justifyContent: 'center',
+                        alignItems: 'center',
+                        textAlign: 'center',
                     }}
                   >
-                    Lorem ipsum
+                      PHASE 4
                   </TimelineDot>
                   <TimelineConnector
                     sx={{
@@ -306,9 +317,10 @@ const RoadMap = () => {
                           color: "#FFF"
                         }}
                       >
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        In pulvinar lacus quis arcu blandit, at fermentum risus
-                        bibendum.
+                          300% GAINS ON YOUR INVESTMENT IN ONE MONTH <br/>
+                          By January 2022, we will have accomplished a floor price of 1 ETH, how can we be so confident on this floor price you ask?
+                          Because even a basic CRYPTOMINER, with no particular rarities will be producing 0,15 ETH per month, meaning it will pay for itself in 6 months and then generating passive income each month (around 600$ at the time of writing).
+                          And keep in mind that this is the revenue for owning a CRYPTOMINER that hasn’t any particular rare assets, if you are lucky enough to mint one with a gold axe for example, it will be generating twice this amount of money each month!
                       </Typography>
                     </Box>
                   </Fade>
@@ -331,10 +343,13 @@ const RoadMap = () => {
                       background: "#1C232D",
                       height: "64px",
                       width: "64px",
-                      padding: "11px 12px 18px"
+                        display: 'flex',
+                        justifyContent: 'center',
+                        alignItems: 'center',
+                        textAlign: 'center',
                     }}
                   >
-                    Lorem ipsum
+                      PHASE 5
                   </TimelineDot>
                   <TimelineConnector
                     sx={{
@@ -364,9 +379,9 @@ const RoadMap = () => {
                           color: "#FFF"
                         }}
                       >
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        In pulvinar lacus quis arcu blandit, at fermentum risus
-                        bibendum.
+
+                          GIVEAWAYS <br/>
+                          Revenue generated from the royalties will be distributed to holders each month, that is another source of inc
                       </Typography>
                     </Box>
                   </Fade>
@@ -389,10 +404,13 @@ const RoadMap = () => {
                       background: "#1C232D",
                       height: "64px",
                       width: "64px",
-                      padding: "11px 12px 18px"
+                        display: 'flex',
+                        justifyContent: 'center',
+                        alignItems: 'center',
+                        textAlign: 'center',
                     }}
                   >
-                    Lorem ipsum
+                      PHASE 6
                   </TimelineDot>
                   <TimelineConnector
                     sx={{
@@ -403,121 +421,6 @@ const RoadMap = () => {
                 {!isTablet ? <TimelineContent sx={{py: "12px", px: 2}} /> : ""}
               </TimelineItem>
 
-              <TimelineItem>
-                <TimelineOppositeContent>
-                  <Fade left>
-                    <Box
-                      sx={{
-                        background: `#1C232D`,
-                        border: `3px solid #F48B0C`,
-                        borderRadius: `19px`,
-                        padding: "37px 30px"
-                      }}
-                    >
-                      <Typography
-                        sx={{
-                          textAlign: "left",
-                          fontWeight: 600,
-                          fontSize: `15px`,
-                          color: "#FFF"
-                        }}
-                      >
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        In pulvinar lacus quis arcu blandit, at fermentum risus
-                        bibendum.
-                      </Typography>
-                    </Box>
-                  </Fade>
-                </TimelineOppositeContent>
-                <TimelineSeparator>
-                  <TimelineConnector
-                    sx={{
-                      background: "#F48B0C"
-                    }}
-                  />
-                  <TimelineDot
-                    sx={{
-                      fontStyle: `normal`,
-                      fontWeight: `bold`,
-                      fontSize: `11px`,
-                      lineHeight: `159.9%`,
-                      letterSpacing: ` 0.07em`,
-                      color: `#F48B0C`,
-                      border: `2px solid #F48B0C`,
-                      background: "#1C232D",
-                      height: "64px",
-                      width: "64px",
-                      padding: "11px 12px 18px"
-                    }}
-                  >
-                    Lorem ipsum
-                  </TimelineDot>
-                  <TimelineConnector
-                    sx={{
-                      background: "#F48B0C"
-                    }}
-                  />
-                </TimelineSeparator>
-                {!isTablet ? <TimelineContent sx={{py: "12px", px: 2}} /> : ""}
-              </TimelineItem>
-
-              <TimelineItem>
-                <TimelineOppositeContent>
-                  <Fade right>
-                    <Box
-                      sx={{
-                        background: `#1C232D`,
-                        border: `3px solid #F48B0C`,
-                        borderRadius: `19px`,
-                        padding: "37px 30px"
-                      }}
-                    >
-                      <Typography
-                        sx={{
-                          textAlign: "left",
-                          fontWeight: 600,
-                          fontSize: `15px`,
-                          color: "#FFF"
-                        }}
-                      >
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        In pulvinar lacus quis arcu blandit, at fermentum risus
-                        bibendum.
-                      </Typography>
-                    </Box>
-                  </Fade>
-                </TimelineOppositeContent>
-                <TimelineSeparator>
-                  <TimelineConnector
-                    sx={{
-                      background: "#F48B0C"
-                    }}
-                  />
-                  <TimelineDot
-                    sx={{
-                      fontStyle: `normal`,
-                      fontWeight: `bold`,
-                      fontSize: `11px`,
-                      lineHeight: `159.9%`,
-                      letterSpacing: ` 0.07em`,
-                      color: `#F48B0C`,
-                      border: `2px solid #F48B0C`,
-                      background: "#1C232D",
-                      height: "64px",
-                      width: "64px",
-                      padding: "11px 12px 18px"
-                    }}
-                  >
-                    Lorem ipsum
-                  </TimelineDot>
-                  <TimelineConnector
-                    sx={{
-                      background: "#F48B0C"
-                    }}
-                  />
-                </TimelineSeparator>
-                {!isTablet ? <TimelineContent sx={{py: "12px", px: 2}} /> : ""}
-              </TimelineItem>
             </Timeline>
           </Box>
         </Container>
