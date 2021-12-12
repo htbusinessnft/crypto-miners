@@ -132,7 +132,7 @@ const data = [
         title: "Where can I see my Cryptominer?",
         description: ` Once you successfully mint a CryptoMiners NFT, you can view it by connecting your crypto wallet to OpenSea.`
     }, {
-        title: "What IS cryptocurrency minting?",
+        title: "What is cryptocurrency mining?",
         description: `Mining is performed by high-powered computers that solve complex computational math problems, these problems are so complex that they cannot be solved by hand and are complicated enough to tax even incredibly powerful computers. By “mining” cryptocurrency with a computer the miner gets rewarded with the cryptocurrency that they’re mining. This is how miners generate money, by having expensive and powerful computers at home solving these mathematical problems.`
     }, {
         title: "What computers do we use?",
