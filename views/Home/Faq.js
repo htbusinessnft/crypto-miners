@@ -129,15 +129,15 @@ const data = [
         title: "Where can I see my Champion?",
         description: ` Once you successfully mint a CryptoMiners NFT, you can view it by connecting your crypto wallet to OpenSea.`
     }, {
-        title: "WHAT IS CRYPTOCURRENCY MINING?",
+        title: "What IS cryptocurrency minting?",
         description: `Mining is performed by high-powered computers that solve complex computational math problems, these problems are so complex that they cannot be solved by hand and are complicated enough to tax even incredibly powerful computers. By “mining” cryptocurrency with a computer the miner gets rewarded with the cryptocurrency that they’re mining. This is how miners generate money, by having expensive and powerful computers at home solving these mathematical problems.`
     }, {
-        title: "WHAT COMPUTERS DO WE USE?",
+        title: "What computers do we use?",
         description: `We want to be mining different cryptocurrencies to reduce the risk of investing all the funds into one cryptocurrency, we will mainly be mining Bitcoin and Ethereum. To mine Ethereum we’ll use the RADEON VII, this GPU is one of the best Ethereum miners in the industry. With a Hash rate of 90 mh/s and a power consumption of 300W, building rigs with this GPU is the option we want to go with.
 
 To mine bitcoin we’ll mainly use the Antminer S19j ASIC Pros. The Antminer S19j Pro (100Th) from Bitmain is a high efficiency, high hash rate machine mining SHA-256 algorithm. Produced by Bitmain, the S19j generates a maximum hash rate of 100Th/s and has a power consumption of 3050W.`
     }, {
-        title: "HOW WILL THE PROFITS BE SHARED BETWEEN ALL NFT HOLDERS?",
+        title: "How will the profits be shared between all NFT holders?",
         description: <>
             Here is the most asked question, now that you understand how mining works and how we can generate money with
             it, we’ll explain how all of you will profit from it. There is two ways you will be able to profit from
