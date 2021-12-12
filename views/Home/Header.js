@@ -49,7 +49,7 @@ const Paragraph = styled("p")({
   fontWeight: `600`,
   fontSize: `16px`,
   lineHeight: `25px`,
-  color: `#B5B5B5`,
+  color: `#d5d5d5`,
   marginBottom: `50px`,
   maxWidth: "500px"
 });

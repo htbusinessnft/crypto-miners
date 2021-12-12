@@ -97,6 +97,21 @@ const MobileMenu = () => {
                 </AnchorLink>
               );
             })}
+              <Box as={'a'} target={'_blank'} href={'https://discord.gg/MCG3cfhU'} sx={{
+                  fontStyle: `normal`,
+                  fontWeight: `bold`,
+                  fontSize: `18px`,
+                  lineHeight: `144.4%`,
+                  letterSpacing: `0.045em`,
+                  color: ` #EEE9E6`,
+                  backgroundColor: `#1C232D`,
+                  borderRadius: `1px`,
+                  padding: `14px 28px`,
+                  cursor: `pointer`,
+                  // marginLeft: `26px`,
+                  border: `2px solid #EEE9E6`,
+                  boxShadow: `0px 0px 7px #F48B0C`
+              }}>Join Discord</Box>
           </StyledStack>
         </Box>
       </Drawer>

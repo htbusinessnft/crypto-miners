@@ -32,7 +32,7 @@ const Paragraph = styled("p")({
   fontWeight: `700`,
   fontSize: `20px`,
   lineHeight: `189.4%`,
-  color: `#666666`,
+  color: `#d5d5d5`,
   fontFamily: `Montserrat, sans-serif`,
   paddingBottom: "30px"
 });
