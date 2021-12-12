@@ -381,7 +381,7 @@ const RoadMap = () => {
                       >
 
                           GIVEAWAYS <br/>
-                          Revenue generated from the royalties will be distributed to holders each month, that is another source of inc
+                          Revenue generated from the royalties will be distributed to holders each month, that is another source of income
                       </Typography>
                     </Box>
                   </Fade>
