@@ -99,7 +99,10 @@ export default Faq;
 const data = [
     {
         title: "CryptoMiners NFT minting",
-        description: `You can only mint your Miners exclusively on our website. We will share the exact date and time on Discord. So make sure to join us now by clicking here.`
+        description: <>
+            You can only mint your Miners exclusively on our website. We will share the exact date and time on Discord.
+            So make sure to join us now by clicking <a target={'_blank'} href="https://discord.gg/MCG3cfhU">here</a>  .
+        </>
     },
     {
         title: "What is CryptoMiners ?",
@@ -126,7 +129,7 @@ const data = [
         description: `Metamask is a crypto wallet that stores your Ethereum, which you need to purchase and mint a CryptoMiners.`
     },
     {
-        title: "Where can I see my Champion?",
+        title: "Where can I see my Cryptominer?",
         description: ` Once you successfully mint a CryptoMiners NFT, you can view it by connecting your crypto wallet to OpenSea.`
     }, {
         title: "What IS cryptocurrency minting?",
