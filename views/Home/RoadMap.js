@@ -197,7 +197,7 @@ const RoadMap = () => {
                       >
                           MINING RIGS <br/>
                           Buying a new warehouse in Iceland, and filling it with mining rigs, which will be YOUR mining rigs, earning you money while you sleep just by owning and holding a CRYPTOMINER.
-                          TO MAKE IT CLEAR: You can expect to get up to 600$ in passive income per month from owning one single CRYPTO MINER! Now imagine having 3 Miners and one of them is a rare one, generating up to 1200$ in revenue each month. That’s a potential 2400$ per month by investing 0,9 ETH, 4000$ at the time of writing.
+                          TO MAKE IT CLEAR: You can expect to get up to 600$ in passive income per month from owning one single CRYPTO MINER! Now imagine having 3 Miners and one of them is a rare one, generating up to 1200$ in revenue each month. All possible from a 1ETH investment.
                       </Typography>
                     </Box>
                   </Fade>
@@ -317,9 +317,9 @@ const RoadMap = () => {
                           color: "#FFF"
                         }}
                       >
-                          300% GAINS ON YOUR INVESTMENT IN ONE MONTH <br/>
-                          By January 2022, we will have accomplished a floor price of 1 ETH, how can we be so confident on this floor price you ask?
-                          Because even a basic CRYPTOMINER, with no particular rarities will be producing 0,15 ETH per month, meaning it will pay for itself in 6 months and then generating passive income each month (around 600$ at the time of writing).
+                          200% GAINS ON YOUR INVESTMENT IN ONE MONTH <br/>
+                          By January 2022, we will have accomplished a floor price of 2 ETH, how can we be so confident on this floor price you ask?
+                          Because even a basic CRYPTOMINER, with no particular rarities will be producing 0,15 ETH per month, meaning it will pay for itself in 10 months and then generating passive income each month (around 600$ at the time of writing).
                           And keep in mind that this is the revenue for owning a CRYPTOMINER that hasn’t any particular rare assets, if you are lucky enough to mint one with a gold axe for example, it will be generating twice this amount of money each month!
                       </Typography>
                     </Box>

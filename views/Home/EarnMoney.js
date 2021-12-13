@@ -68,8 +68,7 @@ const EarnMoney = () => {
                   You can expect to get up to 600$ in passive income per month
                   from owning one single CRYPTO MINER! Now imagine having 3
                   Miners and one of them is a rare one, generating up to 1200$
-                  in revenue each month. That’s a potential 2400$ per month by
-                  investing 0,9 ETH, 4000$ at the time of writing.
+                  in revenue each month. All possible from a 1 ETH investment.
                 </Paragraph>
               </Fade>
               <Fade bottom>
@@ -148,13 +147,13 @@ const EarnMoney = () => {
                 <Paragraph>
                   Keep in mind that while your nft will generate passive income,
                   it’s value will also appreciate, because you will probably
-                  have minted yours at 0.3 ETH, but our floor price will be at
+                  have minted yours at 1 ETH, but our floor price will be at
                   minimum 2 ETH in January.
                 </Paragraph>
               </Fade>
               <Fade bottom>
                 <Paragraph>
-                  That’s a 7x on your investment in one month.
+                  That’s a 2x on your investment in one month.
                 </Paragraph>
               </Fade>
             </Grid>
