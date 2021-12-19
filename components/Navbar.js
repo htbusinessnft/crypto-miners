@@ -70,7 +70,7 @@ const Navbar = () => {
                   </AnchorLink>
                 );
               })}
-              <Box as={'a'} target={'_blank'} href={'https://discord.gg/MCG3cfhU'} sx={{
+              <Box as={'a'} target={'_blank'} href={'https://discord.gg/Yst2T54TtY'} sx={{
                 fontStyle: `normal`,
                 fontWeight: `bold`,
                 fontSize: `18px`,
