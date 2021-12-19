@@ -118,6 +118,18 @@ const Header = () => {
   const isTablet = useMediaQuery({
     query: "(max-width: 500px)"
   });
+
+  const [mintNumber,setMintNumber] = useState(1);
+  const price = 0.2;
+
+  const onMintNumberChange = (e) => {
+    setMintNumber(+e.target.value);
+  }
+
+  const mintButtonClickHandler = () => {
+    console.log(mintNumber);
+  }
+
   return (
     <Box
       sx={{
@@ -191,7 +203,7 @@ const Header = () => {
                     }}
                   >
                     <Fade bottom>
-                      <MintButton>Mint</MintButton>
+                      <MintButton onClick={mintButtonClickHandler}>Mint</MintButton>
                     </Fade>
                   </Box>
                   <Box>
@@ -203,7 +215,21 @@ const Header = () => {
                           justifyContent: "center"
                         }}
                       >
-                        <MintButton>1</MintButton>
+                        <Box defaultValue={1} onChange={onMintNumberChange} min={1} max={20} component={'input'} type={'number'} sx={{
+                          fontStyle: `normal`,
+                          fontWeight: `700`,
+                          fontSize: `20px`,
+                          lineHeight: `137.4%`,
+                          letterSpacing: `0.05em`,
+                          color: `#1C232D`,
+                          boxSizing: ` border-box`,
+                          borderRadius: `7px`,
+                          background: `#F48B0C`,
+                          padding: `10px 25px`,
+                          cursor: `pointer`,
+                          width: '6rem',
+                          border: 'none',
+                        }}/>
                       </Box>
                     </Fade>
                   </Box>
@@ -237,7 +263,7 @@ const Header = () => {
                             Price <span>(ETH)</span>
                           </PriceTilte>
 
-                          <Input type="text" placeholder="0.00" />
+                          <Input value={Number(mintNumber * price).toFixed(2) } disabled type="text" placeholder="0.00" />
                         </Stack>
                       </Box>
                     </Box>
